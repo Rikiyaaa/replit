@@ -1,0 +1,34 @@
+{
+  "name": "nanohandler",
+  "version": "1.0.1",
+  "description": "✈ Join Discord: https://discord.gg/4pk97A2 👌",
+  "main": "index.js",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.30",
+    "chillout": "^5.0.0",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.3",
+    "node-cron": "^3.0.2",
+    "path": "^0.12.7",
+    "plsargs": "^0.1.6",
+    "recursive-readdir": "^2.2.2",
+    "stuffs": "^0.1.17"
+  },
+  "scripts": {
+    "start": "node --no-warnings index.js"
+  },
+  "author": "Adivise",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adivise/NanoHandler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adivise/NanoHandler/issues"
+  },
+  "homepage": "https://github.com/Adivise/NanoHandlereadme",
+  "devDependencies": {
+    "node": "^17.0.1"
+  }
+}
